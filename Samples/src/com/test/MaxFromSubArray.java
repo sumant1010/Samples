@@ -3,7 +3,6 @@ package com.test;
 /*
  * PROBLEM STATEMENT
  * 
-This problem was asked by Google.
 
 Given an array of integers and a number k, where 1 <= k <= length of the array, 
 compute the maximum values of each sub-array of length k.
